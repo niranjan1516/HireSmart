@@ -1,2 +1,8 @@
 # HireSmart
-A Agentic ai based Resume screener and ranker for HR 
+Agentic based Resume screener and ranker for HR 
+Group 1 -
+  Nandita 
+  Omkar 
+  Niranjan
+  vivek
+  Adarsh
